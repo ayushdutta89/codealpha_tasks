@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-This project aims to train a regresion model and pridict the selling price of cars based on various features such as mileage, engine specifications, fuel type, and more.
+This project aims to train a regresion model and predict the selling price of cars based on various features such as mileage, engine specifications, fuel type, and more.
 
 The model uses regression techniques to estimate car prices accurately.
 
